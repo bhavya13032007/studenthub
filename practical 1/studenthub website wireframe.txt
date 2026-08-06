@@ -1,0 +1,42 @@
++-------------------------------------------------------------+
+|                        STUDENT HUB                          |
+|-------------------------------------------------------------|
+| Home | About | Courses | Events | Faculty | Attendance      |
+| Contact | Login | Register | Profile                        |
++-------------------------------------------------------------+
+
+                    HOME PAGE
+
++-------------------------------------------------------------+
+|                    Welcome Banner                           |
+|  "Welcome to StudentHub"                                    |
+|  [Explore Courses]   [View Attendance]                      |
++----------------------------+--------------------------------+
+| Why Students Love It       |                                |
+| • Simple Navigation        |                                |
+| • Study Resources          |                                |
+| • Responsive Design        |                                |
++-------------------------------------------------------------+
+
++----------------+----------------+---------------------------+
+| Latest Updates | Academic Support| Student Access           |
++----------------+----------------+---------------------------+
+
+---------------------------------------------------------------
+Footer
+© 2026 StudentHub
+---------------------------------------------------------------
+
+Navigation to Other Pages
+
+Home
+ │
+ ├── About
+ ├── Courses
+ ├── Events
+ ├── Faculty
+ ├── Attendance
+ ├── Contact
+ ├── Login
+ ├── Register
+ └── Profile

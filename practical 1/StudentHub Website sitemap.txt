@@ -1,0 +1,58 @@
+StudentHub Website
+│
+├── Home (index.html)
+│   ├── Hero Section
+│   ├── Latest Updates
+│   ├── Academic Support
+│   └── Student Access
+│
+├── About (about.html)
+│   ├── Mission
+│   ├── Accessibility
+│   ├── Efficiency
+│   └── Modern Design
+│
+├── Courses (courses.html)
+│   ├── Web Development Frameworks
+│   ├── Data Structures
+│   ├── DBMS
+│   ├── Operating Systems
+│   └── Computer Networks
+│
+├── Events (events.html)
+│   ├── Hackathon
+│   ├── Coding Contest
+│   ├── Technical Workshop
+│   └── Sports Day
+│
+├── Faculty (faculty.html)
+│   ├── Web Development Faculty
+│   ├── DBMS Faculty
+│   └── Operating Systems Faculty
+│
+├── Attendance (attendance.html)
+│   ├── Student Records
+│   ├── Subject
+│   ├── Attendance Status
+│   └── Date
+│
+├── Contact (contact.html)
+│   ├── Email
+│   ├── Phone
+│   └── Address
+│
+├── Login (login.html)
+│   ├── Email
+│   ├── Password
+│   └── Login Button
+│
+├── Register (register.html)
+│   ├── Name
+│   ├── Email
+│   ├── Password
+│   └── Register Button
+│
+└── Profile (profile.html)
+    ├── Student Name
+    ├── Semester
+    └── Department
