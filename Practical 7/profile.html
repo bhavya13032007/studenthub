@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROFILE</title>
+   <link rel="stylesheet" href="../css/style2.css">
+   <style>
+       .form-container {
+           display: flex;
+           flex-direction: column;
+           gap: 15px;
+           max-width: 600px;
+           margin: 20px auto;
+           padding: 30px;
+           background-color: rgba(248, 252, 255, 0.95);
+           border-radius: 8px;
+           box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+           border: 1px solid rgba(13, 47, 87, 0.1);
+       }
+       
+       .form-group {
+           display: flex;
+           flex-direction: column;
+           gap: 8px;
+       }
+       
+       .form-group label {
+           font-weight: 600;
+           color: rgb(13, 47, 87);
+           font-size: 14px;
+       }
+       
+       .form-group input {
+           padding: 10px 12px;
+           border: 1px solid rgb(13, 47, 87);
+           border-radius: 4px;
+           font-family: Arial, sans-serif;
+           transition: all 0.3s ease;
+       }
+       
+       .form-group input:focus {
+           outline: none;
+           border-color: rgb(70, 130, 180);
+           box-shadow: 0 0 8px rgba(70, 130, 180, 0.8);
+           background-color: rgba(224, 238, 255, 0.5);
+       }
+       
+       .form-actions {
+           display: flex;
+           justify-content: center;
+           gap: 10px;
+           margin-top: 20px;
+       }
+       
+       .error-message {
+           color: red;
+           font-size: 12px;
+           display: none;
+           margin-top: -5px;
+       }
+   </style>
+</head>
+<body>
+    <script src="../javascript/profile.js"></script>
+
+    <h1 style="color:rgb(1, 8, 21) ;">STUDENT PROFILE</h1>
+<ul>
+<a href="./homepage.html">:HOME</a>
+<a href="./profile.html"> :PROFILE</a>
+<a href="./courses.html">:COURSES & EVENTS</a>
+<a href="./assignment.html">:ASSIGNMENT</a>
+<a href="./leave.html">:LEAVE APPLICATION</a>
+<a href="./attendence.html">:ATTENDENCE</a>
+<a href="./contact.html">:CONTACT & FAQs</a>
+<a href="./work to be done.html">:WORK TO BE DONE</a>
+<a href="./fees.html">:FEES </a>
+<a href="./results.html">:RESULTS</a>
+ 
+</ul>
+
+<div class="form-container">
+    <form id="profileForm" action="process_profile.php" method="POST" enctype="multipart/form-data">
+        <div class="form-group">
+            <label>Full Name *</label>
+            <input type="text" id="full_name" name="full_name" placeholder="Enter your full name (letters and spaces)" required>
+            <span class="error-message" id="full_name_error">Name must be 3-50 characters with letters and spaces only</span>
+        </div>
+        
+        <div class="form-group">
+            <label>Profile Photo</label>
+            <input type="file" id="photo" name="photo" accept="image/*">
+        </div>
+        
+        <div class="form-group">
+            <label>Student ID *</label>
+            <input type="text" id="student_id" name="student_id" placeholder="E.g., STU12345" required>
+            <span class="error-message" id="student_id_error">Student ID must be alphanumeric (5-10 characters)</span>
+        </div>
+        
+        <div class="form-group">
+            <label>Department *</label>
+            <input type="text" id="department" name="department" placeholder="E.g., Computer Science" required>
+            <span class="error-message" id="department_error">Department must be letters and spaces only (2-50 characters)</span>
+        </div>
+        
+        <div class="form-group">
+            <label>Course *</label>
+            <input type="text" id="course" name="course" placeholder="E.g., B.Tech" required>
+            <span class="error-message" id="course_error">Course must be letters, numbers, and dots (2-50 characters)</span>
+        </div>
+        
+        <div class="form-group">
+            <label>Semester *</label>
+            <input type="text" id="semester" name="semester" placeholder="E.g., 3rd or 3" required>
+            <span class="error-message" id="semester_error">Semester must be a number (1-8)</span>
+        </div>
+        
+        <div class="form-group">
+            <label>Email *</label>
+            <input type="email" id="email" name="email" placeholder="E.g., student@example.com" required>
+            <span class="error-message" id="email_error">Please enter a valid email address</span>
+        </div>
+        
+        <div class="form-group">
+            <label>Phone Number *</label>
+            <input type="tel" id="phone" name="phone" placeholder="E.g., 1234567890" required>
+            <span class="error-message" id="phone_error">Phone must be 10 digits</span>
+        </div>
+        
+        <div class="form-actions">
+            <button type="button" onclick="validateProfileForm()">Submit</button>
+        </div>
+    </form>
+</div>
+
+<p><a href="../json/students.xlsx">Download student records (Excel)</a></p>
+
+    <script src="../javascript/theme.js"></script>
+    
+</body>
+</html>
