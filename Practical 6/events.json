@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development Workshop",
+    "date": "2026-10-12",
+    "location": "IT Lab 1",
+    "category": "Workshop",
+    "description": "Learn HTML, CSS, JavaScript, and responsive page design."
+  },
+  {
+    "id": 2,
+    "title": "Coding Competition",
+    "date": "2026-10-15",
+    "location": "Main Auditorium",
+    "category": "Competition",
+    "description": "Solve programming challenges individually or in teams."
+  },
+  {
+    "id": 3,
+    "title": "Cyber Security Seminar",
+    "date": "2026-10-18",
+    "location": "Seminar Hall A",
+    "category": "Seminar",
+    "description": "Explore safe browsing, cyber threats, and digital privacy."
+  },
+  {
+    "id": 4,
+    "title": "AI and Machine Learning Talk",
+    "date": "2026-10-21",
+    "location": "Conference Room",
+    "category": "Seminar",
+    "description": "An introduction to AI applications and machine learning."
+  },
+  {
+    "id": 5,
+    "title": "Robotics Exhibition",
+    "date": "2026-10-24",
+    "location": "Innovation Center",
+    "category": "Exhibition",
+    "description": "See student-built robots and automation projects."
+  },
+  {
+    "id": 6,
+    "title": "Hackathon 2026",
+    "date": "2026-10-27",
+    "location": "Project Lab",
+    "category": "Competition",
+    "description": "Build a useful prototype during this team coding event."
+  },
+  {
+    "id": 7,
+    "title": "Cloud Computing Workshop",
+    "date": "2026-10-30",
+    "location": "IT Lab 2",
+    "category": "Workshop",
+    "description": "Understand cloud services, deployment, and storage."
+  },
+  {
+    "id": 8,
+    "title": "Data Structures Quiz",
+    "date": "2026-11-03",
+    "location": "Room C-204",
+    "category": "Competition",
+    "description": "Test your knowledge of arrays, lists, trees, and graphs."
+  },
+  {
+    "id": 9,
+    "title": "Open Source Day",
+    "date": "2026-11-06",
+    "location": "Library Hall",
+    "category": "Meetup",
+    "description": "Discover open-source projects and how to contribute."
+  },
+  {
+    "id": 10,
+    "title": "Design Thinking Session",
+    "date": "2026-11-09",
+    "location": "Design Studio",
+    "category": "Workshop",
+    "description": "Practice turning problems into user-focused solutions."
+  },
+  {
+    "id": 11,
+    "title": "Tech Project Showcase",
+    "date": "2026-11-12",
+    "location": "Main Auditorium",
+    "category": "Exhibition",
+    "description": "Present semester projects to students and faculty."
+  },
+  {
+    "id": 12,
+    "title": "Career Guidance Session",
+    "date": "2026-11-15",
+    "location": "Seminar Hall B",
+    "category": "Seminar",
+    "description": "Get practical advice on internships, resumes, and interviews."
+  },
+  {
+    "id": 13,
+    "title": "Mobile App Challenge",
+    "date": "2026-11-18",
+    "location": "Innovation Center",
+    "category": "Competition",
+    "description": "Create a mobile app prototype for a real-world need."
+  },
+  {
+    "id": 14,
+    "title": "Database Fundamentals Lab",
+    "date": "2026-11-21",
+    "location": "Computer Lab 3",
+    "category": "Workshop",
+    "description": "Practice SQL queries, tables, and database relationships."
+  },
+  {
+    "id": 15,
+    "title": "Annual Student Tech Meet",
+    "date": "2026-11-25",
+    "location": "Main Auditorium",
+    "category": "Meetup",
+    "description": "Meet fellow students and share technology interests."
+  }
+]

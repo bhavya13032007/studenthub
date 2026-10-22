@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "How do I log in to Student Hub?",
+    "answer": "Open the login page and enter the student credentials provided by your institution.",
+    "category": "Account"
+  },
+  {
+    "id": 2,
+    "question": "How can I reset my password?",
+    "answer": "Use the Forgot Password option, then follow the instructions sent to your registered email.",
+    "category": "Account"
+  },
+  {
+    "id": 3,
+    "question": "Where can I view my courses?",
+    "answer": "Open the Courses page from the main navigation menu.",
+    "category": "Courses"
+  },
+  {
+    "id": 4,
+    "question": "How do I check my attendance?",
+    "answer": "Select Attendance from the navigation menu to view your attendance records.",
+    "category": "Attendance"
+  },
+  {
+    "id": 5,
+    "question": "Where can I find assignment deadlines?",
+    "answer": "Visit the Assignment or Work To Be Done page for deadlines and task details.",
+    "category": "Assignments"
+  },
+  {
+    "id": 6,
+    "question": "How can I view my examination results?",
+    "answer": "Open the Results page and select the relevant examination or semester.",
+    "category": "Results"
+  },
+  {
+    "id": 7,
+    "question": "Where can I check my fee details?",
+    "answer": "Open the Fees page to review fee information and payment status.",
+    "category": "Fees"
+  },
+  {
+    "id": 8,
+    "question": "Who should I contact for course questions?",
+    "answer": "Contact the faculty member listed for that course or your department office.",
+    "category": "Courses"
+  },
+  {
+    "id": 9,
+    "question": "How do I update my contact details?",
+    "answer": "Contact the student administration office if your profile does not provide an edit option.",
+    "category": "Account"
+  },
+  {
+    "id": 10,
+    "question": "Can I use Student Hub on a mobile phone?",
+    "answer": "Yes. The pages are designed to adapt to different screen sizes.",
+    "category": "General"
+  },
+  {
+    "id": 11,
+    "question": "What if the page does not load?",
+    "answer": "Check your internet connection, refresh the page, and contact support if the problem continues.",
+    "category": "Technical Support"
+  },
+  {
+    "id": 12,
+    "question": "How do I submit an assignment?",
+    "answer": "Follow your course instructions and use the designated submission method shown by your faculty.",
+    "category": "Assignments"
+  },
+  {
+    "id": 13,
+    "question": "Where can I find the academic timetable?",
+    "answer": "Open the timetable page from your student portal, if it is available.",
+    "category": "Courses"
+  },
+  {
+    "id": 14,
+    "question": "Who do I contact about incorrect attendance?",
+    "answer": "Contact the course faculty and provide the date and class details for verification.",
+    "category": "Attendance"
+  },
+  {
+    "id": 15,
+    "question": "How can I report a technical issue?",
+    "answer": "Use the institution's support contact details and include a description of the issue.",
+    "category": "Technical Support"
+  }
+]

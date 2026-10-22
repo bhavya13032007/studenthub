@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Patel",
+    "branch": "Computer Engineering",
+    "email": "aarav.patel@example.com",
+    "semester": 3
+  },
+  {
+    "id": 2,
+    "name": "Diya Shah",
+    "branch": "Information Technology",
+    "email": "diya.shah@example.com",
+    "semester": 3
+  },
+  {
+    "id": 3,
+    "name": "Krish Mehta",
+    "branch": "Computer Engineering",
+    "email": "krish.mehta@example.com",
+    "semester": 3
+  },
+  {
+    "id": 4,
+    "name": "Anaya Desai",
+    "branch": "Mechanical Engineering",
+    "email": "anaya.desai@example.com",
+    "semester": 3
+  },
+  {
+    "id": 5,
+    "name": "Vivaan Joshi",
+    "branch": "Information Technology",
+    "email": "vivaan.joshi@example.com",
+    "semester": 3
+  },
+  {
+    "id": 6,
+    "name": "Myra Trivedi",
+    "branch": "Civil Engineering",
+    "email": "myra.trivedi@example.com",
+    "semester": 3
+  },
+  {
+    "id": 7,
+    "name": "Arjun Parmar",
+    "branch": "Computer Engineering",
+    "email": "arjun.parmar@example.com",
+    "semester": 3
+  },
+  {
+    "id": 8,
+    "name": "Sara Gandhi",
+    "branch": "Information Technology",
+    "email": "sara.gandhi@example.com",
+    "semester": 3
+  },
+  {
+    "id": 9,
+    "name": "Reyansh Dave",
+    "branch": "Mechanical Engineering",
+    "email": "reyansh.dave@example.com",
+    "semester": 3
+  },
+  {
+    "id": 10,
+    "name": "Ira Bhatt",
+    "branch": "Civil Engineering",
+    "email": "ira.bhatt@example.com",
+    "semester": 3
+  },
+  {
+    "id": 11,
+    "name": "Advik Rana",
+    "branch": "Computer Engineering",
+    "email": "advik.rana@example.com",
+    "semester": 3
+  },
+  {
+    "id": 12,
+    "name": "Kiara Shah",
+    "branch": "Information Technology",
+    "email": "kiara.shah@example.com",
+    "semester": 3
+  },
+  {
+    "id": 13,
+    "name": "Atharv Patel",
+    "branch": "Mechanical Engineering",
+    "email": "atharv.patel@example.com",
+    "semester": 3
+  },
+  {
+    "id": 14,
+    "name": "Navya Soni",
+    "branch": "Civil Engineering",
+    "email": "navya.soni@example.com",
+    "semester": 3
+  },
+  {
+    "id": 15,
+    "name": "Rudra Vyas",
+    "branch": "Computer Engineering",
+    "email": "rudra.vyas@example.com",
+    "semester": 3
+  }
+]
